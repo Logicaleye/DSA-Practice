@@ -4,13 +4,13 @@ public:
         reverseString(0, s);
     }
 
-    void reverseString(int i, vector<char>& s) {
+    void reverseString(int i, vector<char> &s) {
 
-        if(i >= s.size() / 2)
-            return;
+    if(i >= s.size() / 2)
+        return;
 
-        swap(s[i], s[s.size() - i - 1]);
+    swap(s[i], s[s.size() - i - 1]);
 
-        reverseString(i + 1, s);
+    reverseString(i + 1, s);
     }
 };
