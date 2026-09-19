@@ -1,30 +1,20 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
 
-    int reverseNumber(int n, long rev) {
+    bool check(int i, string &s) {
 
-        if(n == 0)
-            return rev;
+        if(i >= s.size() / 2)
+            return true;
 
-        int digit = n % 10;
+        if(s[i] != s[s.size() - i - 1])
+            return false;
 
-        rev = rev * 10 + digit;
-
-        return reverseNumber(n / 10, rev);
+        return check(i + 1, s);
     }
 
     bool isPalindrome(int x) {
-
-        if(x < 0)
-            return false;
-
-        int original = x;
-
-        int reversed = reverseNumber(x, 0);
-
-        return original == reversed;
+        //Here to_string int ko string mai convert karne ke liye use hota hai.
+        string s = to_string(x);
+        return check(0, s);
     }
 };
