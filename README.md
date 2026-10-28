@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Logicaleye/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Logicaleye/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Logicaleye/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Logicaleye/DSA-Practice/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Logicaleye/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Logicaleye/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Logicaleye/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Logicaleye/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Logicaleye/DSA-Practice/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Logicaleye/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Logicaleye/DSA-Practice/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
