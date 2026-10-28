@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Logicaleye/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Logicaleye/DSA-Practice/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Logicaleye/DSA-Practice/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Logicaleye/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0455-assign-cookies](https://github.com/Logicaleye/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Logicaleye/DSA-Practice/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Logicaleye/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/Logicaleye/DSA-Practice/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -74,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Logicaleye/DSA-Practice/tree/master/0912-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Logicaleye/DSA-Practice/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Logicaleye/DSA-Practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
