@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Logicaleye/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Logicaleye/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Logicaleye/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0704-binary-search](https://github.com/Logicaleye/DSA-Practice/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Logicaleye/DSA-Practice/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Logicaleye/DSA-Practice/tree/master/0455-assign-cookies) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Logicaleye/DSA-Practice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
